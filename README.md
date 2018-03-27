@@ -4,7 +4,7 @@ This is a simple playground to get in touch with `next`.
 
 # getting started
 
-To get started run the following commands.
+To get started run the following commands:
 
 ```shell
 $ npm install
