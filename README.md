@@ -1,4 +1,4 @@
-# nextjs-playground
+# next-playground
 
 This is a simple playground to get in touch with `next`.
 
