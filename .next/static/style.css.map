@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./index.less?42ed"],"names":[],"mappings":"AAAA;EACE,0BAA0B;EAC1B,aAAa;CACd","file":"static/style.css","sourcesContent":["body {\n  background-color: #3498db;\n  color: white;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./index.less"],"sourceRoot":""}
